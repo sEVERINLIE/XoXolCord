@@ -1,6 +1,6 @@
 # =About=
 A XoXolCord theme made in DNR🖤💙❤️
-# Changelog
+# =Changelog=
 ### 0.2
 - Capital Update: Full theme rebuild
 
