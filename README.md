@@ -1,7 +1,7 @@
 # =About=
 A XoXolCord theme made in DNR🖤💙❤️
 
-# =Downloads=
+# =Download=
 ### ⠀
 [RAW link](https://raw.githubusercontent.com/artzab1103/XoXolCord/main/xoxolcord.theme.css)
 
