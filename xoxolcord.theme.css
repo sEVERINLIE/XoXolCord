@@ -11,44 +11,24 @@
  * @BDEditor Frosted Glass
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@100;300;400;500;700&display=swap');
-@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
-@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
 
 :root {
-  --background-image: url('https://i.imgur.com/sjG6zcg.jpg');
-  --background-image-blur: 6px;
-  --background-image-size: cover;
-  --background-image-position: center;
-  --popout-image: transparent;
-  --popout-image-blur: 5px;
-  --popout-image-size: contain;
-  --popout-image-position: center;
-  --overlay-image: transparent;
-  --overlay-image-blur: 5px;
-  --overlay-image-size: cover;
-  --overlay-image-position: center;
-  --home-button-image: url('https://i.imgur.com/lLBlMfI.png');
-  --home-button-size: contain;
-  --home-button-position: center;
-  --serverlist-brightness: 0.82;
-  --left-brightness: 0.68;
-  --middle-brightness: 0.48;
-  --right-brightness: 0.48;
-  --overlay-brightness: 0.64;
-  --gradient-primary: 255,191,0;
-  --gradient-secondary: 63,81,181;
-  --link-colour: #00B8FF;
-  --scrollbar-colour: rgb(255,0,0,0.25);
-  --gradient-direction: 0deg;
-  --tint-colour: 255,0,135;
-  --tint-brightness: 0;
-  --font: Bebas Neue;
-  --window-padding: 0px;
-  --window-roundness: 16px;
-  --update-notice-1: none;
+  --backgroundImage: url('https://i.imgur.com/AXoEOxC.png');
+  --backgroundColor: #0d0d0d;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 1;
+  --homeImage: url('https://i.imgur.com/Betj7PU.png');
+  --homeImageSize: cover;
+  --themeColor1: #0200FF;
+  --themeColor2: #FFEB3B;
+  --customFont: Open Sans;
+  --backgroundCode: rgb(255,0,0,0);
+  --backgroundName: rgb(255,0,0,0.51);
 }
 
 /* Any custom CSS below here */
-
-
