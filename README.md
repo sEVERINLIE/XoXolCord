@@ -6,7 +6,7 @@ A XoXolCord theme made in DNR🖤💙❤️
 [RAW link](https://raw.githubusercontent.com/artzab1103/XoXolCord/main/xoxolcord.theme.css)
 
 ### ⠀
-[CSS link](https://github.com/artzab1103/XoXolCord/releases/download/0.2/xoxolcord.theme.css)
+[CSS link](https://github.com/artzab1103/XoXolCord/releases)
 
 # =Changelog=
 ### 0.2
