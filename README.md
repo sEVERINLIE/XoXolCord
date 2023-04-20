@@ -13,5 +13,5 @@ A XoXolCord theme made in DNR🖤💙❤️
 - Capital Update: Full theme rebuild
 
 ### 0.1
-- Ofiicial Release
+- A first release of XoXolCord Theme.
 
