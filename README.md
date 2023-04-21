@@ -8,6 +8,8 @@ A XoXolCord theme made in DNR🖤💙❤️
 ### ⠀
 [⏬CSS link⏬](https://github.com/artzab1103/XoXolCord/releases)
 
+### ⠀
+⠀
 # =✅Changelog⚠️=
 ### 0.2
 - ✅Capital Update: Full theme rebuild
