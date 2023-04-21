@@ -1,17 +1,18 @@
-# =About=
+# =❓About❓=
 A XoXolCord theme made in DNR🖤💙❤️
 
-# =Download=
+# =⏬Download⏬=
 ### ⠀
-[RAW link](https://raw.githubusercontent.com/artzab1103/XoXolCord/main/xoxolcord.theme.css)
+[⏬RAW link⏬](https://raw.githubusercontent.com/artzab1103/XoXolCord/main/xoxolcord.theme.css)
 
 ### ⠀
-[CSS link](https://github.com/artzab1103/XoXolCord/releases)
+[⏬CSS link⏬](https://github.com/artzab1103/XoXolCord/releases)
 
-# =Changelog=
+# =✅Changelog⚠️=
 ### 0.2
-- Capital Update: Full theme rebuild
+- ✅Capital Update: Full theme rebuild
 
 ### 0.1
-- A first release of XoXolCord Theme.
+- ✅A first release of XoXolCord Theme.
+- ⚠️Worst design
 
