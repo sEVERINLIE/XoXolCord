@@ -3,7 +3,7 @@ A XoXolCord theme made in DNR🖤💙❤️
 
 # =⏬Download⏬=
 ### ⠀
-[⏬RAW link⏬](https://raw.githubusercontent.com/artzab1103/XoXolCord/main/xoxolcord.theme.css)
+[⏬RAW link⏬](https://raw.githubusercontent.com/sEVERINLIE/XoXolCord/main/xoxolcord.theme.css)
 
 ### ⠀
 [⏬CSS link⏬](https://github.com/artzab1103/XoXolCord/releases)
