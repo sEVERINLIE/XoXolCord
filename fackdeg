@@ -1,0 +1,31 @@
+/**
+ * @name XoXolCord
+ * @author ArtZab#8299
+ * @version 0.2
+ * @description A theme made in DNR
+ * @source https://github.com/artzab1103/XoXolCord
+ * @invite Ha65jZNS5x
+ * @donate https://www.paypal.com/donate/?hosted_button_id=847XC8CRWZMWJ
+ * @website https://github.com/artzab1103/XoXolCord
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/zwnY1h8.png');
+  --backgroundColor: #0d0d0d;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 1;
+  --homeImage: url('https://i.imgur.com/Betj7PU.png');
+  --homeImageSize: cover;
+  --themeColor1: #0200FF;
+  --themeColor2: #FFEB3B;
+  --backgroundCode: rgb(255,0,0,0);
+  --backgroundName: rgb(255,0,0,0.51); 
+}
+
+/* Any custom CSS below here */
