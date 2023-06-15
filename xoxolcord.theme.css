@@ -11,7 +11,7 @@
  * @BDEditor Frosted Glass
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent-Marker&display=swap');
 @import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
 
 :root {
@@ -26,7 +26,7 @@
   --homeImageSize: cover;
   --themeColor1: #0200FF;
   --themeColor2: #FFEB3B;
-  --customFont: Open Sans;
+  --customFont: Permament Marker;
   --backgroundCode: rgb(255,0,0,0);
   --backgroundName: rgb(255,0,0,0.51);
 }
